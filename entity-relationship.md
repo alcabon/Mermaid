@@ -4,6 +4,8 @@
 
 ## Example
 
+[Mermaid syntax](https://mermaid.js.org/syntax/entityRelationshipDiagram.html)
+
 ```mermaid
 erDiagram
     User {
